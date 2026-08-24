@@ -47,8 +47,8 @@ A IA foi utilizada como ferramenta de apoio ao processo criativo.
 
 ## 📂 Estrutura
 
-Consulte a pasta `/case` para conhecer o processo e
-`/prompts` para os prompts utilizados.
+Consulte o arquivo Registro de Prompts para conhecer os
+prompts utilizados.
 
 ## 💡 Principal aprendizado
 
