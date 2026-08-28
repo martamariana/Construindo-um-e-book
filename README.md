@@ -21,7 +21,6 @@ na criação de um produto editorial digital.
 
 - E-book em PDF
 - E-BOOK EM PPT
-- E-book em EPUB
 - Documento editável em ODT
 - Case profissional
 - Documentação dos prompts
